@@ -14,7 +14,7 @@ function App() {
     <CardPlans title="PRO" price="199" />
 
 
-    <h1>MEMBERS </h1>
+    <h1>NEW MEMBER</h1>
     <NewMember title="FREE" price="0" />
 
     <NewMember title="PREMIUM" price="199" />
